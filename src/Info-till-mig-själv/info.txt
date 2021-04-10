@@ -1,0 +1,12 @@
+// Detta är en React Component
+
+import React from 'react';
+
+const Account = () => ( // detta ska matcha export.
+    <div>
+        <h1>Account</h1>
+    </div>
+);
+
+
+export default Account; // detta ska matcha det som står efter const.
